@@ -49,7 +49,7 @@ section{
 }
 
 .btn{
-    font-size: 10px;
+    
     height: 80px;
     width: 200px;
     display: inline-block;
@@ -137,7 +137,7 @@ header .navbar a{
 .home{
     display: flex;
     flex-wrap: wrap;
-    gap: 1.5rem;
+    gap: 1.0rem;
     min-height: 100vh;
     align-items: center;
     background: url(images/home-bg.jpg) no-repeat;
